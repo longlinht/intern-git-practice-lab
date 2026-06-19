@@ -1,0 +1,3 @@
+-Verify battery level is above the minimum operating requirement.
+- Check that all sensors are connected and responding.
+- Confirm network connection is stable.
