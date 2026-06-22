@@ -4,11 +4,11 @@
 
 
 def main():
-    intern_name = "Beyrem Kourda"
-    current_focus = "robot log replay program"
+    intern_name = "Wadha Msaiqer"
+    current_focus = "Git workflow practice for robotics development documentation"
     completed_tasks = [
         "Updated the project introduction",
-        "Added intern role and interests",
+        "Added personalized intern role and interests",
         "Documented robot startup checks",
         "Added professional robot safety rules",
         "Updated daily work log and ignore rules",

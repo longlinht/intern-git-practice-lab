@@ -1,3 +1,3 @@
-Name: Beyrem Kourda
-Role: Computer Engineering Student and robotics software intern
-Interest: Building reliable tools for robot development, including a replay program for robot logs.
+Name: Wadha Msaiqer
+Role: Summer internship student working with robotics development tools
+Interest: Practicing clear Git workflows while documenting robot startup, safety, and log review tasks.
