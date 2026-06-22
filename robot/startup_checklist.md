@@ -7,3 +7,5 @@
 - Inspect sensors and visible cabling for loose connections or damage.
 - Verify the latest required configuration files are loaded before enabling motion.
 - Start with the robot in a clear test area before running any movement commands.
+- Verify sensor calibration.
+- Confirm camera operation.

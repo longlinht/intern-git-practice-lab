@@ -1,0 +1,4 @@
+- Always verify that the emergency stop button is functional before operating the robot.
+- Keep a safe distance from moving robot parts during testing.
+- Do not run the robot without confirming that the workspace is clear.
+- Report any unusual robot behavior immediately to the supervisor.
