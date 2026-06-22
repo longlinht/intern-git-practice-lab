@@ -1,5 +1,7 @@
 # Intern Git Practice Lab
 
-This repository is used for Git practice by summer internship students.
+This repository is a hands-on Git practice lab for summer internship students working in a robotics development environment.
 
-Each group or individual must work on its own branch, make commits, push changes, and open a Pull Request.
+The goal is to practice a realistic development workflow: create a personal branch, make clear changes, commit them in small steps, push the branch, and open a Pull Request for review.
+
+The lab also introduces common project files used during robot development, including intern notes, daily logs, startup checklists, safety rules, and small helper scripts. Interns should keep changes organized, avoid committing temporary files or secrets, and use meaningful commit messages that explain the purpose of each update.
