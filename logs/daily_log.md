@@ -8,6 +8,6 @@
 
 ## 2026-06-22
 
-- Personalized the intern profile for Wadha Msaiqer.
+- Personalized my intern profile for Wadha Msaiqer.
 - Reviewed the robot startup checklist and safety documentation for the Git practice branch.
 - Updated the task summary script to match the current intern submission.
