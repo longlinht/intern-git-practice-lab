@@ -1,0 +1,5 @@
+- Verify battery level
+- Check network connection
+- Confirm emergency stop status
+- Verify sensor calibration
+- Confirm camera operation
