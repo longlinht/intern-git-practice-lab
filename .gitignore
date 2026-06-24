@@ -1,0 +1,8 @@
+# Runtime and temporary files
+*.log
+__pycache__/
+*.py[cod]
+
+# Local environment and virtual-environment files
+.env
+.venv/
