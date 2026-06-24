@@ -1,7 +1,8 @@
 # Robot Safety Rules
 
-- Keep the emergency stop within reach whenever the robot is powered or enabled.
-- Do not stand inside the robot operating area while motion commands are active.
-- Verify that the surrounding area is clear before starting autonomous or replay-driven tests.
-- Report damaged cables, unstable mounts, or unexpected sensor readings before continuing work.
-- Use approved test procedures when replaying robot logs so old data does not trigger unsafe assumptions about the current environment.
+1. Verify that the emergency-stop system is functional before each operation and activate it immediately if unsafe behavior is observed.
+2. Keep personnel outside the defined operating zone while the robot is powered or moving.
+3. Inspect guards, cables, connectors, and mechanical joints before use; do not operate equipment with visible damage.
+4. Isolate electrical power and confirm that stored energy is released before performing maintenance, adjustment, or repair work.
+5. Only trained and authorized personnel may operate, configure, or service the robot.
+6. Report faults, near misses, and unsafe conditions to the supervisor and do not restart the robot until the issue is assessed.
